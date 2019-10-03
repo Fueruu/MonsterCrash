@@ -1,0 +1,179 @@
+fileFormatVersion: 2
+guid: 834576e82003afd41a31c782fd471474
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: BananaMonster:ChestHigh
+    100004: BananaMonster:ChestLow
+    100006: BananaMonster:HairMid
+    100008: BananaMonster:HairRoot
+    100010: BananaMonster:HairTop
+    100012: BananaMonster:HeadLow
+    100014: BananaMonster:HeadMid
+    100016: BananaMonster:HeadTop
+    100018: BananaMonster:L_Ankle
+    100020: BananaMonster:L_Arm
+    100022: BananaMonster:L_Ball
+    100024: BananaMonster:L_Clavicle
+    100026: BananaMonster:L_FingersEnd
+    100028: BananaMonster:L_FingersMid
+    100030: BananaMonster:L_FingersRoot
+    100032: BananaMonster:L_Leg
+    100034: BananaMonster:L_Shoulder
+    100036: BananaMonster:L_ThumbEnd
+    100038: BananaMonster:L_ThumbMid
+    100040: BananaMonster:L_ThumbRoot
+    100042: BananaMonster:L_Toe
+    100044: BananaMonster:L_UpperLeg
+    100046: BananaMonster:L_Wrist
+    100048: BananaMonster:R_Ankle
+    100050: BananaMonster:R_Arm
+    100052: BananaMonster:R_Ball
+    100054: BananaMonster:R_Clavicle
+    100056: BananaMonster:R_FingersEnd
+    100058: BananaMonster:R_FingersMid
+    100060: BananaMonster:R_FingersRoot
+    100062: BananaMonster:R_Leg
+    100064: BananaMonster:R_Shoulder
+    100066: BananaMonster:R_ThumbEnd
+    100068: BananaMonster:R_ThumbMid
+    100070: BananaMonster:R_ThumbRoot
+    100072: BananaMonster:R_Toe
+    100074: BananaMonster:R_UpperLeg
+    100076: BananaMonster:R_Wrist
+    100078: BananaMonster:Root
+    100080: BananaMonster:TailEnd
+    100082: BananaMonster:TailMid
+    100084: BananaMonster:TailRoot
+    400000: //RootNode
+    400002: BananaMonster:ChestHigh
+    400004: BananaMonster:ChestLow
+    400006: BananaMonster:HairMid
+    400008: BananaMonster:HairRoot
+    400010: BananaMonster:HairTop
+    400012: BananaMonster:HeadLow
+    400014: BananaMonster:HeadMid
+    400016: BananaMonster:HeadTop
+    400018: BananaMonster:L_Ankle
+    400020: BananaMonster:L_Arm
+    400022: BananaMonster:L_Ball
+    400024: BananaMonster:L_Clavicle
+    400026: BananaMonster:L_FingersEnd
+    400028: BananaMonster:L_FingersMid
+    400030: BananaMonster:L_FingersRoot
+    400032: BananaMonster:L_Leg
+    400034: BananaMonster:L_Shoulder
+    400036: BananaMonster:L_ThumbEnd
+    400038: BananaMonster:L_ThumbMid
+    400040: BananaMonster:L_ThumbRoot
+    400042: BananaMonster:L_Toe
+    400044: BananaMonster:L_UpperLeg
+    400046: BananaMonster:L_Wrist
+    400048: BananaMonster:R_Ankle
+    400050: BananaMonster:R_Arm
+    400052: BananaMonster:R_Ball
+    400054: BananaMonster:R_Clavicle
+    400056: BananaMonster:R_FingersEnd
+    400058: BananaMonster:R_FingersMid
+    400060: BananaMonster:R_FingersRoot
+    400062: BananaMonster:R_Leg
+    400064: BananaMonster:R_Shoulder
+    400066: BananaMonster:R_ThumbEnd
+    400068: BananaMonster:R_ThumbMid
+    400070: BananaMonster:R_ThumbRoot
+    400072: BananaMonster:R_Toe
+    400074: BananaMonster:R_UpperLeg
+    400076: BananaMonster:R_Wrist
+    400078: BananaMonster:Root
+    400080: BananaMonster:TailEnd
+    400082: BananaMonster:TailMid
+    400084: BananaMonster:TailRoot
+    7400000: ANIM_bananaMonster_Dash
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

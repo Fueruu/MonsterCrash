@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\GUI",
+    "\\GUI\\Gameplay",
+    "\\Managers",
+    "\\Player",
+    "\\PowerUps"
+  ],
+  "SelectedNode": "\\Managers\\ControllerManager.cs.meta",
+  "PreviewInSolutionExplorer": false
+}

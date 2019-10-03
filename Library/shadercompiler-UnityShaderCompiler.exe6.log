@@ -1,0 +1,77 @@
+Base path: C:/Program Files/Unity/Hub/Editor/2018.3.5f1/Editor/Data
+Cmd: initializeCompiler
+Cmd: compileComputeKernel
+  error: 2 plat 4 at ../StdLib.hlsl(258): failed to open source file: 'xRLib.hlsl'
+  api=4 insize=18299 outsize=0 ok=0
+Cmd: compileComputeKernel
+  error: 2 plat 4 at ../StdLib.hlsl(258): failed to open source file: 'xRLib.hlsl'
+  api=4 insize=10881 outsize=0 ok=0
+Cmd: compileComputeKernel
+  error: 2 plat 4 at ../StdLib.hlsl(258): failed to open source file: 'xRLib.hlsl'
+  api=4 insize=3396 outsize=0 ok=0
+Cmd: compileComputeKernel
+  error: 2 plat 4 at ../StdLib.hlsl(258): failed to open source file: 'xRLib.hlsl'
+  api=4 insize=18299 outsize=0 ok=0
+Cmd: compileComputeKernel
+  error: 2 plat 4 at ../StdLib.hlsl(258): failed to open source file: 'xRLib.hlsl'
+  api=4 insize=18299 outsize=0 ok=0
+Cmd: compileComputeKernel
+  error: 2 plat 4 at ../StdLib.hlsl(258): failed to open source file: 'xRLib.hlsl'
+  api=4 insize=2044 outsize=0 ok=0
+Cmd: compileComputeKernel
+  error: 2 plat 4 at ../StdLib.hlsl(258): failed to open source file: 'xRLib.hlsl'
+  api=4 insize=2059 outsize=0 ok=0
+Cmd: compileComputeKernel
+  error: 2 plat 4 at ../StdLib.hlsl(258): failed to open source file: 'xRLib.hlsl'
+  api=4 insize=10881 outsize=0 ok=0
+Cmd: compileComputeKernel
+  error: 2 plat 4 at ../StdLib.hlsl(258): failed to open source file: 'xRLib.hlsl'
+  api=4 insize=18299 outsize=0 ok=0
+Cmd: compileComputeKernel
+  error: 2 plat 4 at ../StdLib.hlsl(258): failed to open source file: 'xRLib.hlsl'
+  api=4 insize=2059 outsize=0 ok=0
+Cmd: compileComputeKernel
+  error: 2 plat 4 at ../StdLib.hlsl(258): failed to open source file: 'xRLib.hlsl'
+  api=4 insize=3070 outsize=0 ok=0
+Cmd: compileComputeKernel
+  error: 2 plat 4 at ../StdLib.hlsl(258): failed to open source file: 'xRLib.hlsl'
+  api=4 insize=10881 outsize=0 ok=0
+Cmd: compileComputeKernel
+  error: 2 plat 4 at ../StdLib.hlsl(258): failed to open source file: 'xRLib.hlsl'
+  api=4 insize=3396 outsize=0 ok=0
+Cmd: compileComputeKernel
+  error: 2 plat 4 at ../StdLib.hlsl(258): failed to open source file: 'xRLib.hlsl'
+  api=4 insize=18299 outsize=0 ok=0
+Cmd: compileComputeKernel
+  error: 2 plat 4 at ../StdLib.hlsl(258): failed to open source file: 'xRLib.hlsl'
+  api=4 insize=18299 outsize=0 ok=0
+Cmd: compileComputeKernel
+  error: 2 plat 4 at ../StdLib.hlsl(258): failed to open source file: 'xRLib.hlsl'
+  api=4 insize=18299 outsize=0 ok=0
+Cmd: compileComputeKernel
+  error: 2 plat 4 at ../StdLib.hlsl(258): failed to open source file: 'xRLib.hlsl'
+  api=4 insize=10881 outsize=0 ok=0
+Cmd: compileComputeKernel
+  error: 2 plat 4 at ../StdLib.hlsl(258): failed to open source file: 'xRLib.hlsl'
+  api=4 insize=18299 outsize=0 ok=0
+Cmd: compileComputeKernel
+  error: 2 plat 4 at ../StdLib.hlsl(258): failed to open source file: 'xRLib.hlsl'
+  api=4 insize=10881 outsize=0 ok=0
+Cmd: compileComputeKernel
+  error: 2 plat 4 at ../StdLib.hlsl(258): failed to open source file: 'xRLib.hlsl'
+  api=4 insize=18299 outsize=0 ok=0
+Cmd: compileComputeKernel
+  error: 2 plat 4 at ../StdLib.hlsl(258): failed to open source file: 'xRLib.hlsl'
+  api=4 insize=18299 outsize=0 ok=0
+Cmd: compileComputeKernel
+  error: 2 plat 4 at ../StdLib.hlsl(258): failed to open source file: 'xRLib.hlsl'
+  api=4 insize=10881 outsize=0 ok=0
+Cmd: compileComputeKernel
+  error: 2 plat 4 at ../StdLib.hlsl(258): failed to open source file: 'xRLib.hlsl'
+  api=4 insize=18299 outsize=0 ok=0
+Cmd: compileComputeKernel
+  error: 2 plat 4 at ../StdLib.hlsl(258): failed to open source file: 'xRLib.hlsl'
+  api=4 insize=18299 outsize=0 ok=0
+Cmd: compileComputeKernel
+  error: 2 plat 4 at ../StdLib.hlsl(258): failed to open source file: 'xRLib.hlsl'
+  api=4 insize=1806 outsize=0 ok=0

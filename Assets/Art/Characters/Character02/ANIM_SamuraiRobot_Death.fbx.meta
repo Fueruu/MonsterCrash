@@ -1,0 +1,162 @@
+fileFormatVersion: 2
+guid: dee007630aa9c374d9cb4897e02d7a55
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: SamuraiRobot:ChestHigh
+    100004: SamuraiRobot:ChestLow
+    100006: SamuraiRobot:HeadRoot
+    100008: SamuraiRobot:HeadTop
+    100010: SamuraiRobot:L_Ankle
+    100012: SamuraiRobot:L_Arm
+    100014: SamuraiRobot:L_Ball
+    100016: SamuraiRobot:L_Clavicle
+    100018: SamuraiRobot:L_FingersEnd
+    100020: SamuraiRobot:L_FingersRoot
+    100022: SamuraiRobot:L_Leg
+    100024: SamuraiRobot:L_Shoulder
+    100026: SamuraiRobot:L_ThumbEnd
+    100028: SamuraiRobot:L_ThumbRoot
+    100030: SamuraiRobot:L_Toe
+    100032: SamuraiRobot:L_UpperLeg
+    100034: SamuraiRobot:L_Wrist
+    100036: SamuraiRobot:Neck
+    100038: SamuraiRobot:NeckHigh
+    100040: SamuraiRobot:R_Ankle
+    100042: SamuraiRobot:R_Arm
+    100044: SamuraiRobot:R_Ball
+    100046: SamuraiRobot:R_Clavicle
+    100048: SamuraiRobot:R_FingersEnd
+    100050: SamuraiRobot:R_FingersRoot
+    100052: SamuraiRobot:R_Leg
+    100054: SamuraiRobot:R_Shoulder
+    100056: SamuraiRobot:R_ThumbEnd
+    100058: SamuraiRobot:R_ThumbRoot
+    100060: SamuraiRobot:R_Toe
+    100062: SamuraiRobot:R_UpperLeg
+    100064: SamuraiRobot:R_Wrist
+    100066: SamuraiRobot:Root
+    400000: //RootNode
+    400002: SamuraiRobot:ChestHigh
+    400004: SamuraiRobot:ChestLow
+    400006: SamuraiRobot:HeadRoot
+    400008: SamuraiRobot:HeadTop
+    400010: SamuraiRobot:L_Ankle
+    400012: SamuraiRobot:L_Arm
+    400014: SamuraiRobot:L_Ball
+    400016: SamuraiRobot:L_Clavicle
+    400018: SamuraiRobot:L_FingersEnd
+    400020: SamuraiRobot:L_FingersRoot
+    400022: SamuraiRobot:L_Leg
+    400024: SamuraiRobot:L_Shoulder
+    400026: SamuraiRobot:L_ThumbEnd
+    400028: SamuraiRobot:L_ThumbRoot
+    400030: SamuraiRobot:L_Toe
+    400032: SamuraiRobot:L_UpperLeg
+    400034: SamuraiRobot:L_Wrist
+    400036: SamuraiRobot:Neck
+    400038: SamuraiRobot:NeckHigh
+    400040: SamuraiRobot:R_Ankle
+    400042: SamuraiRobot:R_Arm
+    400044: SamuraiRobot:R_Ball
+    400046: SamuraiRobot:R_Clavicle
+    400048: SamuraiRobot:R_FingersEnd
+    400050: SamuraiRobot:R_FingersRoot
+    400052: SamuraiRobot:R_Leg
+    400054: SamuraiRobot:R_Shoulder
+    400056: SamuraiRobot:R_ThumbEnd
+    400058: SamuraiRobot:R_ThumbRoot
+    400060: SamuraiRobot:R_Toe
+    400062: SamuraiRobot:R_UpperLeg
+    400064: SamuraiRobot:R_Wrist
+    400066: SamuraiRobot:Root
+    7400000: ANIM_SamuraiRobot_Death
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 1
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {fileID: 9000000, guid: 3a63bdbed3972914482cb5bbfceeeece,
+    type: 3}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
