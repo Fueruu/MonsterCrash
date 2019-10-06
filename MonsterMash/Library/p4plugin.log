@@ -1,0 +1,236 @@
+File(s) not opened for edit.
+
+w1:File(s) not opened for edit.\n
+File(s) not in client view.
+
+w1:File(s) not in client view.\n
+C:/Users/GD52Isai/Perforce/MonsterMash/App/MonsterMash/Assets/Plugins/InControl/Plugins.meta - file(s) not in client view.
+
+w1:C:/Users/GD52Isai/Perforce/MonsterMash/App/MonsterMash/Assets/Plugins/InControl/Plugins.meta - file(s) not in client view.\n
+C:/Users/GD52Isai/Perforce/MonsterMash/App/MonsterMash/Assets/Plugins/InControl/Plugins.meta - file(s) not in client view.
+
+C:/Users/GD52Isai/Perforce/MonsterMash/App/MonsterMash/Assets/Plugins/InControl.meta - file(s) not in client view.
+
+w1:C:/Users/GD52Isai/Perforce/MonsterMash/App/MonsterMash/Assets/Plugins/InControl.meta - file(s) not in client view.\n
+w1:C:/Users/GD52Isai/Perforce/MonsterMash/App/MonsterMash/Assets/Plugins/InControl/Plugins.meta - file(s) not in client view.\n
+p1:-1 0 Change 144777 created with 24 open file(s).
+p1:-1 0 Submitting change 144777.
+p1:-1 0 Locking 24 files ...
+p1:-1 0 add //VFS_Depot/Projects/GD52PG14/MonsterMash/App/MonsterMash/Assets/Art/Characters.meta#1
+p1:-1 0 add //VFS_Depot/Projects/GD52PG14/MonsterMash/App/MonsterMash/Assets/Art/Characters/Character01.meta#1
+p1:-1 0 add //VFS_Depot/Projects/GD52PG14/MonsterMash/App/MonsterMash/Assets/Art/Environment.meta#1
+p1:-1 0 add //VFS_Depot/Projects/GD52PG14/MonsterMash/App/MonsterMash/Assets/Art/Environment/Buildings.meta#1
+p1:-1 0 add //VFS_Depot/Projects/GD52PG14/MonsterMash/App/MonsterMash/Assets/Art/Environment/Parks.meta#1
+p1:-1 0 add //VFS_Depot/Projects/GD52PG14/MonsterMash/App/MonsterMash/Assets/Art/Environment/PowerUp01.meta#1
+p1:-1 0 add //VFS_Depot/Projects/GD52PG14/MonsterMash/App/MonsterMash/Assets/Art/Environment/Streets.meta#1
+p1:-1 0 add //VFS_Depot/Projects/GD52PG14/MonsterMash/App/MonsterMash/Assets/Art/Particles.meta#1
+p1:-1 0 add //VFS_Depot/Projects/GD52PG14/MonsterMash/App/MonsterMash/Assets/Art/UI.meta#1
+p1:-1 0 add //VFS_Depot/Projects/GD52PG14/MonsterMash/App/MonsterMash/Assets/Art/UI/CharSelection.meta#1
+p1:-1 0 add //VFS_Depot/Projects/GD52PG14/MonsterMash/App/MonsterMash/Assets/Art/UI/Credits.meta#1
+p1:-1 0 add //VFS_Depot/Projects/GD52PG14/MonsterMash/App/MonsterMash/Assets/Art/UI/InGame.meta#1
+p1:-1 0 move/add //VFS_Depot/Projects/GD52PG14/MonsterMash/App/MonsterMash/Assets/Art/UI/InGame/prototypeTarget.png#1
+p1:-1 0 move/add //VFS_Depot/Projects/GD52PG14/MonsterMash/App/MonsterMash/Assets/Art/UI/InGame/prototypeTarget.png.meta#1
+p1:-1 0 add //VFS_Depot/Projects/GD52PG14/MonsterMash/App/MonsterMash/Assets/Art/UI/MainMenu.meta#1
+p1:-1 0 add //VFS_Depot/Projects/GD52PG14/MonsterMash/App/MonsterMash/Assets/Art/UI/Options.meta#1
+p1:-1 0 add //VFS_Depot/Projects/GD52PG14/MonsterMash/App/MonsterMash/Assets/Art/UI/Pause.meta#1
+p1:-1 0 add //VFS_Depot/Projects/GD52PG14/MonsterMash/App/MonsterMash/Assets/Art/UI/WinScreen.meta#1
+p1:-1 0 add //VFS_Depot/Projects/GD52PG14/MonsterMash/App/MonsterMash/Assets/Sound/GameSFX.meta#1
+p1:-1 0 add //VFS_Depot/Projects/GD52PG14/MonsterMash/App/MonsterMash/Assets/Sound/MenuSFX.meta#1
+p1:-1 0 add //VFS_Depot/Projects/GD52PG14/MonsterMash/App/MonsterMash/Assets/Sound/Music.meta#1
+p1:-1 0 delete //VFS_Depot/Projects/GD52PG14/MonsterMash/App/MonsterMash/Assets/Textures.meta#2
+p1:-1 0 move/delete //VFS_Depot/Projects/GD52PG14/MonsterMash/App/MonsterMash/Assets/Textures/target.png#2
+p1:-1 0 move/delete //VFS_Depot/Projects/GD52PG14/MonsterMash/App/MonsterMash/Assets/Textures/target.png.meta#2
+p1:-1 0 Change 144777 submitted.
+p1:-1 0 C:\\Users\\GD52Isai\\Perforce\\MonsterMash\\App\\MonsterMash\\Assets\\Materials\\Blue.mat.meta
+p1:-1 0 C:\\Users\\GD52Isai\\Perforce\\MonsterMash\\App\\MonsterMash\\Assets\\Materials\\Green.mat.meta
+p1:-1 0 C:\\Users\\GD52Isai\\Perforce\\MonsterMash\\App\\MonsterMash\\Assets\\Materials\\Red.mat.meta
+p1:-1 0 C:\\Users\\GD52Isai\\Perforce\\MonsterMash\\App\\MonsterMash\\Assets\\Materials\\WallBack.mat.meta
+p1:-1 0 C:\\Users\\GD52Isai\\Perforce\\MonsterMash\\App\\MonsterMash\\Assets\\Materials\\WallFront.mat.meta
+p1:-1 0 C:\\Users\\GD52Isai\\Perforce\\MonsterMash\\App\\MonsterMash\\Assets\\Models\\Buildings.meta
+p1:-1 0 C:\\Users\\GD52Isai\\Perforce\\MonsterMash\\App\\MonsterMash\\Assets\\Models\\Buildings\\building1.obj.meta
+p1:-1 0 C:\\Users\\GD52Isai\\Perforce\\MonsterMash\\App\\MonsterMash\\Assets\\Models\\Buildings\\building2.obj.meta
+p1:-1 0 C:\\Users\\GD52Isai\\Perforce\\MonsterMash\\App\\MonsterMash\\Assets\\Models\\Buildings\\building3.obj.meta
+p1:-1 0 C:\\Users\\GD52Isai\\Perforce\\MonsterMash\\App\\MonsterMash\\Assets\\Models\\Buildings\\Building_01.fbx.meta
+p1:-1 0 C:\\Users\\GD52Isai\\Perforce\\MonsterMash\\App\\MonsterMash\\Assets\\Models\\Buildings\\Building_01_Shattered.fbx.meta
+p1:-1 0 C:\\Users\\GD52Isai\\Perforce\\MonsterMash\\App\\MonsterMash\\Assets\\Models\\Monsters.meta
+p1:-1 0 C:\\Users\\GD52Isai\\Perforce\\MonsterMash\\App\\MonsterMash\\Assets\\Models\\Monsters\\monsterProto_v1.obj.meta
+p1:-1 0 C:\\Users\\GD52Isai\\Perforce\\MonsterMash\\App\\MonsterMash\\Assets\\Textures.meta
+p1:-1 0 C:\\Users\\GD52Isai\\Perforce\\MonsterMash\\App\\MonsterMash\\ProjectSettings\\InputManager.asset
+p1:-1 0 Change 144878 created with 2 open file(s).
+p1:-1 0 Submitting change 144878.
+p1:-1 0 Locking 2 files ...
+p1:-1 0 add //VFS_Depot/Projects/GD52PG14/MonsterMash/App/MonsterMash/Assets/InControl.meta#3
+p1:-1 0 edit //VFS_Depot/Projects/GD52PG14/MonsterMash/App/MonsterMash/Assets/InControl/Plugins.meta#2
+p1:-1 0 Change 144878 submitted.
+p1:-1 1 C:\\Users\\GD52Isai\\Perforce\\MonsterMash\\App\\MonsterMash\\Assets\\Art.meta
+p1:-1 1 C:\\Users\\GD52Isai\\Perforce\\MonsterMash\\App\\MonsterMash\\Assets\\Art\\Characters.meta
+p1:-1 1 C:\\Users\\GD52Isai\\Perforce\\MonsterMash\\App\\MonsterMash\\Assets\\Art\\Characters\\Character01.meta
+p1:-1 1 C:\\Users\\GD52Isai\\Perforce\\MonsterMash\\App\\MonsterMash\\Assets\\Art\\Environment.meta
+p1:-1 1 C:\\Users\\GD52Isai\\Perforce\\MonsterMash\\App\\MonsterMash\\Assets\\Art\\Environment\\Buildings.meta
+p1:-1 1 C:\\Users\\GD52Isai\\Perforce\\MonsterMash\\App\\MonsterMash\\Assets\\Art\\Environment\\Parks.meta
+p1:-1 1 C:\\Users\\GD52Isai\\Perforce\\MonsterMash\\App\\MonsterMash\\Assets\\Art\\Environment\\PowerUp01.meta
+p1:-1 1 C:\\Users\\GD52Isai\\Perforce\\MonsterMash\\App\\MonsterMash\\Assets\\Art\\Environment\\Streets.meta
+p1:-1 1 C:\\Users\\GD52Isai\\Perforce\\MonsterMash\\App\\MonsterMash\\Assets\\Art\\godzillaCute.jpg
+p1:-1 1 C:\\Users\\GD52Isai\\Perforce\\MonsterMash\\App\\MonsterMash\\Assets\\Art\\godzillaCute.jpg.meta
+p1:-1 1 C:\\Users\\GD52Isai\\Perforce\\MonsterMash\\App\\MonsterMash\\Assets\\Art\\Materials.meta
+p1:-1 1 C:\\Users\\GD52Isai\\Perforce\\MonsterMash\\App\\MonsterMash\\Assets\\Art\\Models.meta
+p1:-1 1 C:\\Users\\GD52Isai\\Perforce\\MonsterMash\\App\\MonsterMash\\Assets\\Art\\Particles.meta
+p1:-1 1 C:\\Users\\GD52Isai\\Perforce\\MonsterMash\\App\\MonsterMash\\Assets\\Art\\Textures.meta
+p1:-1 1 C:\\Users\\GD52Isai\\Perforce\\MonsterMash\\App\\MonsterMash\\Assets\\Art\\UI.meta
+p1:-1 1 C:\\Users\\GD52Isai\\Perforce\\MonsterMash\\App\\MonsterMash\\Assets\\Art\\UI\\CharSelection.meta
+p1:-1 1 C:\\Users\\GD52Isai\\Perforce\\MonsterMash\\App\\MonsterMash\\Assets\\Art\\UI\\Credits.meta
+p1:-1 1 C:\\Users\\GD52Isai\\Perforce\\MonsterMash\\App\\MonsterMash\\Assets\\Art\\UI\\InGame.meta
+p1:-1 1 C:\\Users\\GD52Isai\\Perforce\\MonsterMash\\App\\MonsterMash\\Assets\\Art\\UI\\InGame\\prototypeTarget.png
+p1:-1 1 C:\\Users\\GD52Isai\\Perforce\\MonsterMash\\App\\MonsterMash\\Assets\\Art\\UI\\InGame\\prototypeTarget.png.meta
+p1:-1 1 C:\\Users\\GD52Isai\\Perforce\\MonsterMash\\App\\MonsterMash\\Assets\\Art\\UI\\MainMenu.meta
+p1:-1 1 C:\\Users\\GD52Isai\\Perforce\\MonsterMash\\App\\MonsterMash\\Assets\\Art\\UI\\Options.meta
+p1:-1 1 C:\\Users\\GD52Isai\\Perforce\\MonsterMash\\App\\MonsterMash\\Assets\\Art\\UI\\Pause.meta
+p1:-1 1 C:\\Users\\GD52Isai\\Perforce\\MonsterMash\\App\\MonsterMash\\Assets\\Art\\UI\\WinScreen.meta
+p1:-1 1 C:\\Users\\GD52Isai\\Perforce\\MonsterMash\\App\\MonsterMash\\Assets\\InControl.meta
+p1:-1 1 C:\\Users\\GD52Isai\\Perforce\\MonsterMash\\App\\MonsterMash\\Assets\\InControl\\Plugins.meta
+p1:-1 1 C:\\Users\\GD52Isai\\Perforce\\MonsterMash\\App\\MonsterMash\\Assets\\Materials.meta
+p1:-1 1 C:\\Users\\GD52Isai\\Perforce\\MonsterMash\\App\\MonsterMash\\Assets\\Materials\\Blue.mat
+p1:-1 1 C:\\Users\\GD52Isai\\Perforce\\MonsterMash\\App\\MonsterMash\\Assets\\Materials\\Blue.mat.meta
+p1:-1 1 C:\\Users\\GD52Isai\\Perforce\\MonsterMash\\App\\MonsterMash\\Assets\\Materials\\Green.mat
+p1:-1 1 C:\\Users\\GD52Isai\\Perforce\\MonsterMash\\App\\MonsterMash\\Assets\\Materials\\Green.mat.meta
+p1:-1 1 C:\\Users\\GD52Isai\\Perforce\\MonsterMash\\App\\MonsterMash\\Assets\\Materials\\Red.mat
+p1:-1 1 C:\\Users\\GD52Isai\\Perforce\\MonsterMash\\App\\MonsterMash\\Assets\\Materials\\Red.mat.meta
+p1:-1 1 C:\\Users\\GD52Isai\\Perforce\\MonsterMash\\App\\MonsterMash\\Assets\\Materials\\WallBack.mat
+p1:-1 1 C:\\Users\\GD52Isai\\Perforce\\MonsterMash\\App\\MonsterMash\\Assets\\Materials\\WallBack.mat.meta
+p1:-1 1 C:\\Users\\GD52Isai\\Perforce\\MonsterMash\\App\\MonsterMash\\Assets\\Materials\\WallFront.mat
+p1:-1 1 C:\\Users\\GD52Isai\\Perforce\\MonsterMash\\App\\MonsterMash\\Assets\\Materials\\WallFront.mat.meta
+p1:-1 1 C:\\Users\\GD52Isai\\Perforce\\MonsterMash\\App\\MonsterMash\\Assets\\Models.meta
+p1:-1 1 C:\\Users\\GD52Isai\\Perforce\\MonsterMash\\App\\MonsterMash\\Assets\\Models\\Buildings.meta
+p1:-1 1 C:\\Users\\GD52Isai\\Perforce\\MonsterMash\\App\\MonsterMash\\Assets\\Models\\Buildings\\building1.obj
+p1:-1 1 C:\\Users\\GD52Isai\\Perforce\\MonsterMash\\App\\MonsterMash\\Assets\\Models\\Buildings\\building1.obj.meta
+p1:-1 1 C:\\Users\\GD52Isai\\Perforce\\MonsterMash\\App\\MonsterMash\\Assets\\Models\\Buildings\\building2.obj
+p1:-1 1 C:\\Users\\GD52Isai\\Perforce\\MonsterMash\\App\\MonsterMash\\Assets\\Models\\Buildings\\building2.obj.meta
+p1:-1 1 C:\\Users\\GD52Isai\\Perforce\\MonsterMash\\App\\MonsterMash\\Assets\\Models\\Buildings\\building3.obj
+p1:-1 1 C:\\Users\\GD52Isai\\Perforce\\MonsterMash\\App\\MonsterMash\\Assets\\Models\\Buildings\\building3.obj.meta
+p1:-1 1 C:\\Users\\GD52Isai\\Perforce\\MonsterMash\\App\\MonsterMash\\Assets\\Models\\Buildings\\Building_01.fbx
+p1:-1 1 C:\\Users\\GD52Isai\\Perforce\\MonsterMash\\App\\MonsterMash\\Assets\\Models\\Buildings\\Building_01.fbx.meta
+p1:-1 1 C:\\Users\\GD52Isai\\Perforce\\MonsterMash\\App\\MonsterMash\\Assets\\Models\\Buildings\\Building_01_Shattered.fbx
+p1:-1 1 C:\\Users\\GD52Isai\\Perforce\\MonsterMash\\App\\MonsterMash\\Assets\\Models\\Buildings\\Building_01_Shattered.fbx.meta
+p1:-1 1 C:\\Users\\GD52Isai\\Perforce\\MonsterMash\\App\\MonsterMash\\Assets\\Models\\Monsters.meta
+p1:-1 1 C:\\Users\\GD52Isai\\Perforce\\MonsterMash\\App\\MonsterMash\\Assets\\Models\\Monsters\\monsterProto_v1.obj
+p1:-1 1 C:\\Users\\GD52Isai\\Perforce\\MonsterMash\\App\\MonsterMash\\Assets\\Models\\Monsters\\monsterProto_v1.obj.meta
+p1:-1 1 C:\\Users\\GD52Isai\\Perforce\\MonsterMash\\App\\MonsterMash\\Assets\\Plugins.meta
+p1:-1 1 C:\\Users\\GD52Isai\\Perforce\\MonsterMash\\App\\MonsterMash\\Assets\\Prefabs.meta
+p1:-1 1 C:\\Users\\GD52Isai\\Perforce\\MonsterMash\\App\\MonsterMash\\Assets\\Prefabs\\Buidlings.meta
+p1:-1 1 C:\\Users\\GD52Isai\\Perforce\\MonsterMash\\App\\MonsterMash\\Assets\\Prefabs\\Buidlings\\Building_01.prefab
+p1:-1 1 C:\\Users\\GD52Isai\\Perforce\\MonsterMash\\App\\MonsterMash\\Assets\\Prefabs\\Buidlings\\Building_01.prefab.meta
+p1:-1 1 C:\\Users\\GD52Isai\\Perforce\\MonsterMash\\App\\MonsterMash\\Assets\\Prefabs\\Buidlings\\Building_01_Shattered Variant.prefab
+p1:-1 1 C:\\Users\\GD52Isai\\Perforce\\MonsterMash\\App\\MonsterMash\\Assets\\Prefabs\\Buidlings\\Building_01_Shattered Variant.prefab.meta
+p1:-1 1 C:\\Users\\GD52Isai\\Perforce\\MonsterMash\\App\\MonsterMash\\Assets\\Prefabs\\Player.prefab
+p1:-1 1 C:\\Users\\GD52Isai\\Perforce\\MonsterMash\\App\\MonsterMash\\Assets\\Prefabs\\Player.prefab.meta
+p1:-1 1 C:\\Users\\GD52Isai\\Perforce\\MonsterMash\\App\\MonsterMash\\Assets\\Scenes.meta
+p1:-1 1 C:\\Users\\GD52Isai\\Perforce\\MonsterMash\\App\\MonsterMash\\Assets\\Scenes\\MonsterMashPrototype.unity
+p1:-1 1 C:\\Users\\GD52Isai\\Perforce\\MonsterMash\\App\\MonsterMash\\Assets\\Scenes\\MonsterMashPrototype.unity.meta
+p1:-1 1 C:\\Users\\GD52Isai\\Perforce\\MonsterMash\\App\\MonsterMash\\Assets\\Scenes\\SampleScene.unity
+p1:-1 1 C:\\Users\\GD52Isai\\Perforce\\MonsterMash\\App\\MonsterMash\\Assets\\Scenes\\SampleScene.unity.meta
+p1:-1 1 C:\\Users\\GD52Isai\\Perforce\\MonsterMash\\App\\MonsterMash\\Assets\\Scripts.meta
+p1:-1 1 C:\\Users\\GD52Isai\\Perforce\\MonsterMash\\App\\MonsterMash\\Assets\\Scripts\\AI.meta
+p1:-1 1 C:\\Users\\GD52Isai\\Perforce\\MonsterMash\\App\\MonsterMash\\Assets\\Scripts\\Building.meta
+p1:-1 1 C:\\Users\\GD52Isai\\Perforce\\MonsterMash\\App\\MonsterMash\\Assets\\Scripts\\Building\\CleanUp.cs
+p1:-1 1 C:\\Users\\GD52Isai\\Perforce\\MonsterMash\\App\\MonsterMash\\Assets\\Scripts\\Building\\CleanUp.cs.meta
+p1:-1 1 C:\\Users\\GD52Isai\\Perforce\\MonsterMash\\App\\MonsterMash\\Assets\\Scripts\\Building\\Destructable.cs
+p1:-1 1 C:\\Users\\GD52Isai\\Perforce\\MonsterMash\\App\\MonsterMash\\Assets\\Scripts\\Building\\Destructable.cs.meta
+p1:-1 1 C:\\Users\\GD52Isai\\Perforce\\MonsterMash\\App\\MonsterMash\\Assets\\Scripts\\GameManager.cs
+p1:-1 1 C:\\Users\\GD52Isai\\Perforce\\MonsterMash\\App\\MonsterMash\\Assets\\Scripts\\GameManager.cs.meta
+p1:-1 1 C:\\Users\\GD52Isai\\Perforce\\MonsterMash\\App\\MonsterMash\\Assets\\Scripts\\MyGameManager.cs
+p1:-1 1 C:\\Users\\GD52Isai\\Perforce\\MonsterMash\\App\\MonsterMash\\Assets\\Scripts\\MyGameManager.cs.meta
+p1:-1 1 C:\\Users\\GD52Isai\\Perforce\\MonsterMash\\App\\MonsterMash\\Assets\\Scripts\\Player.meta
+p1:-1 1 C:\\Users\\GD52Isai\\Perforce\\MonsterMash\\App\\MonsterMash\\Assets\\Scripts\\Player\\Head.cs
+p1:-1 1 C:\\Users\\GD52Isai\\Perforce\\MonsterMash\\App\\MonsterMash\\Assets\\Scripts\\Player\\Head.cs.meta
+p1:-1 1 C:\\Users\\GD52Isai\\Perforce\\MonsterMash\\App\\MonsterMash\\Assets\\Scripts\\Player\\PlayerActions.cs
+p1:-1 1 C:\\Users\\GD52Isai\\Perforce\\MonsterMash\\App\\MonsterMash\\Assets\\Scripts\\Player\\PlayerActions.cs.meta
+p1:-1 1 C:\\Users\\GD52Isai\\Perforce\\MonsterMash\\App\\MonsterMash\\Assets\\Scripts\\Player\\PlayerController.cs
+p1:-1 1 C:\\Users\\GD52Isai\\Perforce\\MonsterMash\\App\\MonsterMash\\Assets\\Scripts\\Player\\PlayerController.cs.meta
+p1:-1 1 C:\\Users\\GD52Isai\\Perforce\\MonsterMash\\App\\MonsterMash\\Assets\\Scripts\\Player\\PlayerManager.cs
+p1:-1 1 C:\\Users\\GD52Isai\\Perforce\\MonsterMash\\App\\MonsterMash\\Assets\\Scripts\\Player\\PlayerManager.cs.meta
+p1:-1 1 C:\\Users\\GD52Isai\\Perforce\\MonsterMash\\App\\MonsterMash\\Assets\\Sound.meta
+p1:-1 1 C:\\Users\\GD52Isai\\Perforce\\MonsterMash\\App\\MonsterMash\\Assets\\Sound\\GameSFX.meta
+p1:-1 1 C:\\Users\\GD52Isai\\Perforce\\MonsterMash\\App\\MonsterMash\\Assets\\Sound\\MenuSFX.meta
+p1:-1 1 C:\\Users\\GD52Isai\\Perforce\\MonsterMash\\App\\MonsterMash\\Assets\\Sound\\Music.meta
+p1:-1 1 C:\\Users\\GD52Isai\\Perforce\\MonsterMash\\App\\MonsterMash\\Assets\\Textures.meta
+p1:-1 1 C:\\Users\\GD52Isai\\Perforce\\MonsterMash\\App\\MonsterMash\\Assets\\Textures\\Thumbs.db.meta
+p1:-1 1 C:\\Users\\GD52Isai\\Perforce\\MonsterMash\\App\\MonsterMash\\Logs\\Packages-Update.log
+p1:-1 1 C:\\Users\\GD52Isai\\Perforce\\MonsterMash\\App\\MonsterMash\\Packages\\manifest.json
+p1:-1 1 C:\\Users\\GD52Isai\\Perforce\\MonsterMash\\App\\MonsterMash\\ProjectSettings\\AudioManager.asset
+p1:-1 1 C:\\Users\\GD52Isai\\Perforce\\MonsterMash\\App\\MonsterMash\\ProjectSettings\\ClusterInputManager.asset
+p1:-1 1 C:\\Users\\GD52Isai\\Perforce\\MonsterMash\\App\\MonsterMash\\ProjectSettings\\DynamicsManager.asset
+p1:-1 1 C:\\Users\\GD52Isai\\Perforce\\MonsterMash\\App\\MonsterMash\\ProjectSettings\\EditorBuildSettings.asset
+p1:-1 1 C:\\Users\\GD52Isai\\Perforce\\MonsterMash\\App\\MonsterMash\\ProjectSettings\\EditorSettings.asset
+p1:-1 1 C:\\Users\\GD52Isai\\Perforce\\MonsterMash\\App\\MonsterMash\\ProjectSettings\\GraphicsSettings.asset
+p1:-1 1 C:\\Users\\GD52Isai\\Perforce\\MonsterMash\\App\\MonsterMash\\ProjectSettings\\InputManager.asset
+p1:-1 1 C:\\Users\\GD52Isai\\Perforce\\MonsterMash\\App\\MonsterMash\\ProjectSettings\\NavMeshAreas.asset
+p1:-1 1 C:\\Users\\GD52Isai\\Perforce\\MonsterMash\\App\\MonsterMash\\ProjectSettings\\NetworkManager.asset
+p1:-1 1 C:\\Users\\GD52Isai\\Perforce\\MonsterMash\\App\\MonsterMash\\ProjectSettings\\Physics2DSettings.asset
+p1:-1 1 C:\\Users\\GD52Isai\\Perforce\\MonsterMash\\App\\MonsterMash\\ProjectSettings\\PresetManager.asset
+p1:-1 1 C:\\Users\\GD52Isai\\Perforce\\MonsterMash\\App\\MonsterMash\\ProjectSettings\\ProjectSettings.asset
+p1:-1 1 C:\\Users\\GD52Isai\\Perforce\\MonsterMash\\App\\MonsterMash\\ProjectSettings\\ProjectVersion.txt
+p1:-1 1 C:\\Users\\GD52Isai\\Perforce\\MonsterMash\\App\\MonsterMash\\ProjectSettings\\QualitySettings.asset
+p1:-1 1 C:\\Users\\GD52Isai\\Perforce\\MonsterMash\\App\\MonsterMash\\ProjectSettings\\TagManager.asset
+p1:-1 1 C:\\Users\\GD52Isai\\Perforce\\MonsterMash\\App\\MonsterMash\\ProjectSettings\\TimeManager.asset
+p1:-1 1 C:\\Users\\GD52Isai\\Perforce\\MonsterMash\\App\\MonsterMash\\ProjectSettings\\UnityConnectSettings.asset
+p1:-1 1 C:\\Users\\GD52Isai\\Perforce\\MonsterMash\\App\\MonsterMash\\ProjectSettings\\VFXManager.asset
+C:/Users/GD52Isai/Perforce/MonsterMash/App/MonsterMash/Assets/Plugins/InControl/Plugins - file(s) not in client view.
+
+C:/Users/GD52Isai/Perforce/MonsterMash/App/MonsterMash/Assets/Plugins/InControl/Plugins.meta - file(s) not in client view.
+
+C:/Users/GD52Isai/Perforce/MonsterMash/App/MonsterMash/Assets/Plugins/InControl - file(s) not in client view.
+
+C:/Users/GD52Isai/Perforce/MonsterMash/App/MonsterMash/Assets/Plugins/InControl.meta - file(s) not in client view.
+
+w1:C:/Users/GD52Isai/Perforce/MonsterMash/App/MonsterMash/Assets/Plugins/InControl - file(s) not in client view.\n
+w1:C:/Users/GD52Isai/Perforce/MonsterMash/App/MonsterMash/Assets/Plugins/InControl.meta - file(s) not in client view.\n
+w1:C:/Users/GD52Isai/Perforce/MonsterMash/App/MonsterMash/Assets/Plugins/InControl/Plugins - file(s) not in client view.\n
+w1:C:/Users/GD52Isai/Perforce/MonsterMash/App/MonsterMash/Assets/Plugins/InControl/Plugins.meta - file(s) not in client view.\n
+C:/Users/GD52Isai/Perforce/MonsterMash/App/MonsterMash/ProjectSettings/InputManager.asset - file(s) not opened on this client.
+
+C:/Users/GD52Isai/Perforce/MonsterMash/App/MonsterMash/ProjectSettings/TagManager.asset - file(s) not opened on this client.
+
+C:/Users/GD52Isai/Perforce/MonsterMash/App/MonsterMash/ProjectSettings/ProjectSettings.asset - file(s) not opened on this client.
+
+C:/Users/GD52Isai/Perforce/MonsterMash/App/MonsterMash/ProjectSettings/AudioManager.asset - file(s) not opened on this client.
+
+C:/Users/GD52Isai/Perforce/MonsterMash/App/MonsterMash/ProjectSettings/TimeManager.asset - file(s) not opened on this client.
+
+C:/Users/GD52Isai/Perforce/MonsterMash/App/MonsterMash/ProjectSettings/DynamicsManager.asset - file(s) not opened on this client.
+
+C:/Users/GD52Isai/Perforce/MonsterMash/App/MonsterMash/ProjectSettings/QualitySettings.asset - file(s) not opened on this client.
+
+C:/Users/GD52Isai/Perforce/MonsterMash/App/MonsterMash/ProjectSettings/EditorBuildSettings.asset - file(s) not opened on this client.
+
+C:/Users/GD52Isai/Perforce/MonsterMash/App/MonsterMash/ProjectSettings/EditorSettings.asset - file(s) not opened on this client.
+
+C:/Users/GD52Isai/Perforce/MonsterMash/App/MonsterMash/ProjectSettings/NavMeshAreas.asset - file(s) not opened on this client.
+
+C:/Users/GD52Isai/Perforce/MonsterMash/App/MonsterMash/ProjectSettings/Physics2DSettings.asset - file(s) not opened on this client.
+
+C:/Users/GD52Isai/Perforce/MonsterMash/App/MonsterMash/ProjectSettings/GraphicsSettings.asset - file(s) not opened on this client.
+
+C:/Users/GD52Isai/Perforce/MonsterMash/App/MonsterMash/ProjectSettings/ClusterInputManager.asset - file(s) not opened on this client.
+
+C:/Users/GD52Isai/Perforce/MonsterMash/App/MonsterMash/ProjectSettings/UnityConnectSettings.asset - file(s) not opened on this client.
+
+C:/Users/GD52Isai/Perforce/MonsterMash/App/MonsterMash/ProjectSettings/PresetManager.asset - file(s) not opened on this client.
+
+C:/Users/GD52Isai/Perforce/MonsterMash/App/MonsterMash/ProjectSettings/VFXManager.asset - file(s) not opened on this client.
+
+w1:C:/Users/GD52Isai/Perforce/MonsterMash/App/MonsterMash/ProjectSettings/AudioManager.asset - file(s) not opened on this client.\n
+w1:C:/Users/GD52Isai/Perforce/MonsterMash/App/MonsterMash/ProjectSettings/ClusterInputManager.asset - file(s) not opened on this client.\n
+w1:C:/Users/GD52Isai/Perforce/MonsterMash/App/MonsterMash/ProjectSettings/DynamicsManager.asset - file(s) not opened on this client.\n
+w1:C:/Users/GD52Isai/Perforce/MonsterMash/App/MonsterMash/ProjectSettings/EditorBuildSettings.asset - file(s) not opened on this client.\n
+w1:C:/Users/GD52Isai/Perforce/MonsterMash/App/MonsterMash/ProjectSettings/EditorSettings.asset - file(s) not opened on this client.\n
+w1:C:/Users/GD52Isai/Perforce/MonsterMash/App/MonsterMash/ProjectSettings/GraphicsSettings.asset - file(s) not opened on this client.\n
+w1:C:/Users/GD52Isai/Perforce/MonsterMash/App/MonsterMash/ProjectSettings/InputManager.asset - file(s) not opened on this client.\n
+w1:C:/Users/GD52Isai/Perforce/MonsterMash/App/MonsterMash/ProjectSettings/NavMeshAreas.asset - file(s) not opened on this client.\n
+w1:C:/Users/GD52Isai/Perforce/MonsterMash/App/MonsterMash/ProjectSettings/Physics2DSettings.asset - file(s) not opened on this client.\n
+w1:C:/Users/GD52Isai/Perforce/MonsterMash/App/MonsterMash/ProjectSettings/PresetManager.asset - file(s) not opened on this client.\n
+w1:C:/Users/GD52Isai/Perforce/MonsterMash/App/MonsterMash/ProjectSettings/ProjectSettings.asset - file(s) not opened on this client.\n
+w1:C:/Users/GD52Isai/Perforce/MonsterMash/App/MonsterMash/ProjectSettings/QualitySettings.asset - file(s) not opened on this client.\n
+w1:C:/Users/GD52Isai/Perforce/MonsterMash/App/MonsterMash/ProjectSettings/TagManager.asset - file(s) not opened on this client.\n
+w1:C:/Users/GD52Isai/Perforce/MonsterMash/App/MonsterMash/ProjectSettings/TimeManager.asset - file(s) not opened on this client.\n
+w1:C:/Users/GD52Isai/Perforce/MonsterMash/App/MonsterMash/ProjectSettings/UnityConnectSettings.asset - file(s) not opened on this client.\n
+w1:C:/Users/GD52Isai/Perforce/MonsterMash/App/MonsterMash/ProjectSettings/VFXManager.asset - file(s) not opened on this client.\n

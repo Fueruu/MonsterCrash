@@ -18,12 +18,6 @@ ModelImporter:
     400010: pPlane1
     400012: pSphere1
     2100000: initialShadingGroup
-    2100002: pCube1Mat
-    2100004: pCylinder3Mat
-    2100006: pCylinder4Mat
-    2100008: pCylinder5Mat
-    2100010: pPlane1Mat
-    2100012: pSphere1Mat
     2300000: pCube1
     2300002: pCylinder3
     2300004: pCylinder4
